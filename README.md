@@ -1,3 +1,3 @@
 # Updated-Portfolio
 
-![](Assets/Portfoilo)
+![](Assets/Portfoilo.png)
