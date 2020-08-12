@@ -1,0 +1,43 @@
+/* style sheet for both html pages.*/ 
+
+/* header code adds color and border to where the name is and centers the text.*/
+header {
+    text-align: center;
+    background-color: slategray;
+    border: indigo;
+    border-style: groove;
+}
+
+/* this code adds color and box model to the navbar. colors the text and places it.*/
+.navbar-nav {
+    background-color: steelblue;
+    padding: 30px;
+    margin: 30px;
+    border: 15px;
+    border-color: lawngreen;
+    border-style: inset;
+    width: 100%;
+    display: inline-block;
+    justify-content: center;
+    font-size: xx-large;
+    font-stretch: expanded;
+    font-weight: bold;
+    font-style: italic;
+    text-emphasis-color: inherit;
+    color: powderblue;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+
+.nav-link {
+    color: black;
+    display: inline-block;
+}
+
+.navbar-expand-sm {
+    display: inline-block;
+}
+

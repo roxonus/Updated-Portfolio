@@ -1,0 +1,10 @@
+/*this is the stylesheet for the portfolio page. adds color and resizes one of the images.*/
+
+body {
+    background-color: lightgrey;
+}
+
+.music {
+    max-width: 180px;
+    max-height: 180px;
+}
