@@ -28,6 +28,11 @@ header {
 }
 
 .nav-item {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
     display: inline-block;
 }
 
